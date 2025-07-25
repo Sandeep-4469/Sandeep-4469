@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-4469&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-4469" /> </p>
 
-- 🔭 I’m currently working on **HealthAI - An AI based Health Assistant**
+- 🔭 I’m currently working on **VLMs for Pathology and Hemoglobin Meter**
 
 - 🌱 I’m currently learning **Django,**
 
