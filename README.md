@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **VLMs for Pathology and Hemoglobin Meter**
 
-- 🌱 I’m currently learning **Django,**
+- 🌱 I’m currently learning **Vision Language Models,**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing**
 
